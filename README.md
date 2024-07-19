@@ -24,6 +24,25 @@ Durante o curso de testes automatizados com Cypress (básico), você vai aprende
 
 Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 
-___
+
 
 Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+
+##Readme projeto
+
+##Cypress basico 
+
+Pré requisitos
+É necessário ter o Node.js e o npm instalados para executar este projeto.
+
+Eu usei versões v16.13.2e 8.3.2do Node.js e npm, respectivamente. Eu sugiro que você use as mesmas versões ou versões posteriores.
+
+##Instalação
+Execute npm install(ou npm ipara a versão curta) para instalar as dependências de desenvolvimento.
+
+Testes
+
+
+Execute 'npm test'(ou 'npm t' para a versão curta) para executar o teste no modo headless.
+
+Ou execute 'npm run cy:open' para abrir o Cypress no modo interativo.
